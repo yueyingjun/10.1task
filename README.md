@@ -1,1 +1,1 @@
-http://yuyukong.duapp.com/cms/addmin/index.php
+http://yuyukong.duapp.com/cms/index/index.php
