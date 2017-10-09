@@ -1,2 +1,2 @@
 
-http://zhangyan.duapp.com/
+http://zhangyan.duapp.com/qiantai/index.php
