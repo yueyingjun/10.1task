@@ -1,1 +1,1 @@
-www.baidu.com
+http://qiangzi.duapp.com/
