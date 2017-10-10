@@ -1,1 +1,1 @@
-https://zhangliao.duapp.com/culture/culture.html
+http://zhangliao.duapp.com/culture/culture.html
